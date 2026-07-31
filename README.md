@@ -1,6 +1,6 @@
 # Projeções de Alfabetização — Curvas de Alfa
 
-**Explorador interativo** das curvas de alfabetização por UF (2023–2031), a partir do Indicador Criança Alfabetizada (ICA/AEEB, INEP). Permite escolher o cenário de projeção e a UF em destaque para comparar trajetórias. Trabalho do **Núcleo de Dados · Conhecimento, Dados e Pesquisa — Fundação Lemann**, com modelagem técnica da Germina.
+**Explorador interativo** das curvas de alfabetização por UF (2023–2031), a partir do Indicador Criança Alfabetizada (ICA/AEEB, INEP). Permite escolher o cenário de projeção e a UF em destaque para comparar trajetórias. 
 
 🔗 **Página publicada:** `https://<seu-usuario>.github.io/projecoes-alfa/`
 
@@ -21,9 +21,3 @@ A senha é compartilhada **separadamente** e não fica registrada neste reposit�
 ## Conteúdo do painel
 
 Explorador com dois controles: **Base** (o cenário de projeção — tendência, tendência PARC/\~PARC, ritmos de referência como Ceará e Top3, meta oficial etc.) e **UF em destaque**. A partir da seleção, o gráfico mostra a série histórica e a projeção da UF em relação às demais e à Meta Aliança de 95%.
-
-## Fonte e leitura
-
-Germina · ICA/AEEB (INEP), edições de 2023 a 2025\. As projeções são **leitura de tendência** apoiada em apenas 3 pontos — devem ser lidas como **direção**, não como número fechado, e atualizadas a cada nova edição do ICA.
-
-> **Confidencial — Uso exclusivo da Fundação Lemann.**  
